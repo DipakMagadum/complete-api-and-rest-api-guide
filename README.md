@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/api-overview.jpeg" width="750"/>
-</p>
 # 🚀 API & REST API — Complete Beginner to Advanced Guide
 
 > A practical and beginner-friendly guide to understanding APIs, REST APIs, backend communication, authentication, API testing, and real-world API workflows used in modern web applications.
