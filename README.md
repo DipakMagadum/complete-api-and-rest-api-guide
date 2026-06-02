@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/api-overview.jpeg" width="750"/>
+</p>
 # 🚀 API & REST API — Complete Beginner to Advanced Guide
 
 > A practical and beginner-friendly guide to understanding APIs, REST APIs, backend communication, authentication, API testing, and real-world API workflows used in modern web applications.
@@ -136,6 +139,7 @@ This repository is written in simple and structured language so that:
 ---
 
 # 🟢 What is API?
+![API Overview](images/api-overview.jpeg)
 
 API stands for:
 
@@ -225,6 +229,7 @@ APIs are responsible for loading dynamic content.
 ---
 
 # 🌐 What is Client & Server?
+![Client Server Architecture](images/client-server-architecture.jpeg)
 
 This is one of the most important backend concepts.
 
@@ -324,6 +329,7 @@ Frontend displays result to user.
 ---
 
 # 🌍 What is HTTP?
+![HTTP Methods](images/http-methods.jpeg)
 
 HTTP stands for:
 
@@ -388,6 +394,7 @@ Frontend reads JSON and displays information.
 ---
 
 # 🌐 What is REST API?
+![API Workflow](images/api-workflow.jpeg)
 
 REST stands for:
 
@@ -564,6 +571,7 @@ Deleting user account permanently.
 ---
 
 # ⚙️ HTTP Status Codes
+![HTTP Status Codes](images/http-status-codes.jpeg)
 
 Status codes tell whether request succeeded or failed.
 
@@ -680,6 +688,7 @@ Authorization controls permissions and access.
 ---
 
 # 🔑 JWT Authentication
+![JWT Authentication Flow](images/jwt-authentication-flow.jpeg)
 
 JWT stands for:
 
@@ -732,6 +741,7 @@ Authorization: Bearer token_here
 ---
 
 # 🧪 What is Postman?
+![API Testing with Postman](images/api-testing-postman.jpeg)
 
 Postman is a tool used for API testing.
 
@@ -906,10 +916,12 @@ app.listen(3000, () => {
 ---
 
 # 🚀 Advanced API Concepts
+![Advanced API Concepts](images/advanced-api-concepts.jpeg)
 
 ---
 
 # 🔀 REST vs SOAP
+![REST vs SOAP API](images/rest-vs-soap-api.jpeg)
 
 ## REST
 
